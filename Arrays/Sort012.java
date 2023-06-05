@@ -37,3 +37,6 @@ public class Sort012 {
          }
     }
 }
+
+// TC = O(n)
+// SC = O(1)
