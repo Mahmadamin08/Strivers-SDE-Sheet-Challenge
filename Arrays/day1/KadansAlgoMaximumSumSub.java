@@ -1,3 +1,4 @@
+package day1;
 public class KadansAlgoMaximumSumSub {
     public static long maxSubarraySum(int[] nums, int n) {
 		// write your code here

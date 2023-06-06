@@ -1,3 +1,5 @@
+package day1;
+import java.util.*;
 public class MaxiProfit {
     public static int maximumProfit(ArrayList<Integer> prices){
         // Write your code here.

@@ -1,3 +1,4 @@
+package day1;
 public class Sort012 {
     public static void sort012(int[] nums)
     {
